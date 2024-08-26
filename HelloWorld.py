@@ -1,6 +1,6 @@
 #! /usr/bin/python3
 # This Phython program will print Hellow World...
-print("Hello Again From Vidhish...Aug 2024...\n")
+print("Hello Again From Vidhish\n")
 
 
 
